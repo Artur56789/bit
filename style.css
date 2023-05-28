@@ -100,3 +100,19 @@ footer p {
     padding-left: 25px;
     padding-top: 45px;
 }
+
+.nav-link:hover {
+    color: purple;
+}
+
+.article-but:hover {
+    background-color: white;
+    color: blue;
+    border: 5px solid blue
+}
+
+.button:hover {
+    background-color: white;
+    color: #36bbce;
+    border: 5px solid #36bbce;
+}
